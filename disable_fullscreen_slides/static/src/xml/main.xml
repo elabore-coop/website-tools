@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates id="template" xml:space="preserve">
+
+  <!-- QWEB Templates for UI Widgets and views -->
+
+  <!--
+
+  <t t-name="disable_fullscreen_slidesView">
+    <div class="oe_disable_fullscreen_slides_view">
+      <div class="oe_disable_fullscreen_slides_buttons"/>>
+      <table class="oe_disable_fullscreen_slides_groups">
+        <tr class="oe_disable_fullscreen_slides_groups_headers">
+          <td class="oe_disable_fullscreen_slides_dummy_cell"><div/></td>
+        </tr>
+        <tr class="oe_disable_fullscreen_slides_dummy_row">
+        </tr>
+      </table>
+    </div>
+  </t>
+
+  -->
+
+</templates>
